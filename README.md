@@ -12,4 +12,4 @@ This is a shopping cart application for an online plant shop developed as part o
 ## Project Links
 
 - **GitHub Repository:** [https://github.com/MSVVSSAINADH/paradise-nursery](https://github.com/MSVVSSAINADH/paradise-nursery)
-- **Live Site:** [https://github.com/MSVVSSAINADH/paradise-nursery/](https://github.com/MSVVSSAINADH/paradise-nursery/)
+- **Live Site:** [https://msvvssainadh.github.io/paradise-nursery/](https://msvvssainadh.github.io/paradise-nursery/)
