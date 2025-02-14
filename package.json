@@ -25,7 +25,6 @@
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
-<<<<<<< HEAD
     "gh-pages": "^6.1.1",
     "vite": "^5.2.0"
   }
@@ -38,10 +37,7 @@
   }
 }
 
-
-=======
     "gh-pages": "^6.3.0",
     "vite": "^5.2.0"
   }
 }
->>>>>>> 8cba263 (Initial commit)
