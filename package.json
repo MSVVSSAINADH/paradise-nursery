@@ -29,4 +29,12 @@
     "vite": "^5.2.0"
   }
 }
+{
+  "homepage": "https://MSVVSSAINADH.github.io/paradise-nursery",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
+
 
