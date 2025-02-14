@@ -37,6 +37,10 @@
   }
 }
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a52e7be (Fix package.json merge conflict)
     "gh-pages": "^6.3.0",
     "vite": "^5.2.0"
   }
